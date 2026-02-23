@@ -1,0 +1,38 @@
+Daily Log Example: Bandit 11–20
+
+Date: 2-20-2026
+
+Primary Focus: Linux Fundamentals & Basic Binary Exploitation
+Platform: OverTheWire Bandit
+
+Levels Completed: 11–20
+
+Training Time: 4-5 hours
+
+Techniques Learned:
+
+Decoding ROT13 (tr 'A-Za-z' 'N-ZA-Mn-za-m')
+
+Decoding hex dumps using xxd -r
+
+Working in temporary directories (mktemp -d)
+
+Using private SSH keys (ssh -i KEY, chmod 600 KEY)
+
+Identifying and using setuid binaries
+
+Basic port scanning and SSL service detection (nmap, openssl s_client)
+
+Submitting credentials to local ports using nc
+
+Using diff to compare files
+
+Reflection:
+
+Levels 11–20 introduced me to file encoding/decoding, keys, and network services.
+
+Learned how Linux permissions affect SSH keys and command access.
+
+Port scanning and SSL detection are useful skills for later binary exploitation.
+
+Need to practice quicker navigation in /tmp and handling multiple files.

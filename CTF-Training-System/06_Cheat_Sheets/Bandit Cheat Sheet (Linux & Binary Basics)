@@ -2,7 +2,7 @@
 
 ### **1. SSH Basics**
 
-```bash
+
 # Connect to Bandit
 ssh banditX@bandit.labs.overthewire.org -p 2220
 
@@ -12,7 +12,7 @@ ssh -i private.key banditX@bandit.labs.overthewire.org -p 2220
 
 ### **2. File Navigation**
 
-```bash
+
 ls        # list files
 ls -a     # include hidden files
 cd DIR    # change directory

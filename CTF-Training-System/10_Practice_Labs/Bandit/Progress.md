@@ -22,4 +22,25 @@ Level 9 ✔
 
 Level 10 ✔
 
-Current Level: 11
+Level 11 ✔
+
+Level 12 ✔
+
+Level 13 ✔
+
+Level 14 ✔
+
+Level 15 ✔
+
+Level 16 ✔
+
+Level 17 ✔
+
+Level 18 ✔
+
+Level 19 ✔
+
+Level 20 ✔
+
+
+Current Level: 20

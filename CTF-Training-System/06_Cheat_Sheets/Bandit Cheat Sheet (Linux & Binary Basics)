@@ -1,8 +1,8 @@
-# **Cheat Sheets Folder (Bandit 1–20)**
+# Cheat Sheets Folder (Bandit 1–20)
 
-### **1. SSH Basics**
+### 1. SSH Basics
 
-
+```bash
 # Connect to Bandit
 ssh banditX@bandit.labs.overthewire.org -p 2220
 
@@ -10,16 +10,16 @@ ssh banditX@bandit.labs.overthewire.org -p 2220
 ssh -i private.key banditX@bandit.labs.overthewire.org -p 2220
 ```
 
-### **2. File Navigation**
+### 2. File Navigation
 
-
+```bash
 ls        # list files
 ls -a     # include hidden files
 cd DIR    # change directory
 pwd       # print working directory
 ```
 
-### **3. File Viewing**
+### 3. File Viewing
 
 ```bash
 cat file.txt       # show file content
@@ -28,7 +28,7 @@ head file.txt      # first 10 lines
 tail file.txt      # last 10 lines
 ```
 
-### **4. File Searching**
+### 4. File Searching
 
 ```bash
 grep "text" file.txt          # search text in file
@@ -36,7 +36,7 @@ grep -r "text" ./             # search recursively
 find /path -name "filename"   # find file by name
 ```
 
-### **5. File Info**
+### 5. File Info
 
 ```bash
 file file.txt      # check file type
@@ -46,7 +46,7 @@ chmod 600 file     # set private permissions
 chmod 700 script   # set executable permissions
 ```
 
-### **6. Encodings & Transformations**
+### 6. Encodings & Transformations
 
 ```bash
 # Base64
@@ -62,16 +62,16 @@ xxd -r file.hex > file
 cat file.txt | grep "text"
 ```
 
-### **7. Temporary Files**
+### 7. Temporary Files
 
 ```bash
-mkdir /tmp/tmpname   # create directory
-mktemp -d           # create unique temp dir
-cp file /tmp/tmpdir  # copy files
-mv file newname      # rename files
+mkdir /tmp/tmpname    # create directory
+mktemp -d             # create unique temp dir
+cp file /tmp/tmpdir   # copy files
+mv file newname       # rename files
 ```
 
-### **8. Port & Network**
+### 8. Port & Network
 
 ```bash
 # Scan ports
@@ -84,13 +84,13 @@ openssl s_client -connect localhost:PORT
 nc localhost PORT
 ```
 
-### **9. Comparing Files**
+### 9. Comparing Files
 
 ```bash
 diff file1 file2   # find differences
 ```
 
-### **10. Setuid / Binary Execution**
+### 10. Setuid / Binary Execution
 
 ```bash
 ./binary           # run local binary

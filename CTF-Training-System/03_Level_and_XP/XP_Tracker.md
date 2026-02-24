@@ -3,7 +3,7 @@
 | Date       | Levels Completed | Training Time | Challenges Solved | Techniques Learned                                                | Writeups XP | Cheat Sheet XP | Timed Practice XP | Total XP |
 |-----------|-----------------|---------------|-----------------|------------------------------------------------------------------|------------|----------------|-----------------|----------|
 | 2-12-2026 | 0–10            | 2 hours       | 10              | SSH, find, grep, Base64, Command chaining                        | 1000       | 5              | 5               | 1510     |
-| 2-16-2026 | 11–20           | 4–5 hours     | 10              | ROT13, hexdump, key-based SSH, port scan, SSL check, diff, setuid | 1000       | 5              | 5               | 1510     |
+| 2-16-2026 | 11–20           | 5–6 hours     | 10              | ROT13, hexdump, key-based SSH, port scan, SSL check, diff, setuid | 1000       | 5              | 5               | 1510     |
 
 ---
 

@@ -6,6 +6,22 @@
 **Date Updated:** 2-24-2026  
 
 ---
+# 📊 Bandit Progress Overview
+
+## 🗂 Level Completion Summary
+
+| Levels      | Levels Completed | Challenges Solved | Write-ups Created | Cheat Sheets Updated | Timed Practice | Total XP |
+|------------|------------------|-------------------|-------------------|----------------------|---------------|----------|
+| 0–10       | 10               | 10                | 1                 | 1                    | 1             | 1510 XP  |
+| 11–20      | 10               | 10                | 1                 | 1                    | 1             | 1510 XP  |
+
+---
+
+## 🏆 Cumulative XP
+
+**3020 XP**
+---
+
 # 📊 Current Level Status
 
 Current Level: Level 4  

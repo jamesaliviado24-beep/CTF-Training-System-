@@ -3,42 +3,66 @@
 
 **Trainee:** James  
 **Platform:** OverTheWire – Bandit  
-**Date Updated:** 2-16-2026  
+**Date Updated:** 2-24-2026  
+
+---
+# 📊 Current Level Status
+
+Current Level: Level 4  
+Current XP: 20 / 1000  
+
+Title: Beginner
 
 ---
 
-## 🗂 Level Completion
+## XP Breakdown
 
-| Levels Completed | Challenges Solved | Writeups Created | Cheat Sheets Updated | Timed Practice | Total XP |
-|-----------------|-----------------|-----------------|--------------------|----------------|----------|
-| 0–10            | 10              | 10              | 1                  | 1              | 1510     |
-| 11–20           | 10              | 10              | 1                  | 1              | 1510     |
+| Source | XP Earned |
+|-------|-----------|
+Training Hours | 70 XP
+Easy Challenges | 1000 XP
+Writeups | 2000 XP
+Cheat Sheet Updates | 10 XP
+Timed Practice | 10 XP
 
-**Cumulative XP:** 3020 XP
-
----
-
-## 📊 Current Level
-
-| Level                     | XP Threshold   | Current XP | Status                   |
-|---------------------------|---------------|------------|--------------------------|
-| Beginner – Intermediate   | 1000–2000 XP  | 3020 XP    | ✅ Advanced (Level 11–15)|
-
-**Title:** Advanced Linux Fundamentals Trainee
+Total XP = 3020 XP
 
 ---
 
-## 🔧 Notes
+## Level Thresholds
 
-- **Easy challenges solved:** 50 XP each  
-- **Writeups created:** 100 XP each  
-- **Cheat sheet updates:** 5 XP each  
-- **Timed practice:** 5 XP per session  
+Level 1–5 (Beginner): 1000 XP per level  
+Level 6–10 (Intermediate): 2000 XP per level  
+Level 11–15 (Advanced): 3000 XP per level  
+Level 16–20 (Expert): 5000 XP per level
 
-**Cumulative XP** considers all writeups, cheat sheet updates, and practice sessions.  
+---
 
-**Level thresholds:**  
-- Level 1–5: 1000 XP per level  
-- Level 6–10: 2000 XP per level  
-- Level 11–15: 3000 XP per level  
-- Level 16–20: 5000 XP per level
+## Level Progression
+
+Level 1 → Level 2 : ✅ Completed  
+Level 2 → Level 3 : ✅ Completed  
+Level 3 → Level 4 : ✅ Completed  
+Level 4 → Level 5 : ⏳ In Progress
+
+XP Needed for Next Level:
+
+980 XP remaining
+
+---
+
+## Notes
+
+Bandit Levels 0–20 completed.
+
+Skills Developed:
+
+- Linux Fundamentals
+- SSH authentication
+- File permissions
+- Encoding and decoding
+- Networking basics
+- Port scanning
+- SSL connections
+- Cron jobs
+- Setuid binaries

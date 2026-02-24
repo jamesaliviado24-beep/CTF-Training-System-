@@ -1,4 +1,4 @@
-# 🛡️ OverTheWire Bandit Writeup (Level 0–10)
+# 🛡️ OverTheWire Bandit Writeup (Level 0–1)
 
 Platform: OverTheWire Bandit  
 Focus: Linux Fundamentals for Binary Exploitation  

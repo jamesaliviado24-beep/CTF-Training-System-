@@ -11,7 +11,7 @@ Dates: 02/12/2026 – 02/16/2026
 |-------|-------|-------|-------|
 Training Hours | 15–20 | 7–8 | ✗
 Challenges Solved | 15–25 | 20 | ✓
-Live CTF Participated | 1–2 | 0 | ✗
+Live CTF Participated | 1–2 | 1 | ✓
 CTF Challenges Solved | 2–5 | 0 | ✗
 Writeups Created | 3–5 | 20 | ✓
 New Techniques Learned | 2–3 | 8+ | ✓

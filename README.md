@@ -7,19 +7,19 @@
 * Binary Exploitation (Pwn)
 * Reverse Engineering
 
-**Training Period:** __________ to __________
-**Total Target Hours:** __________
+**Training Period:**  (TO BE ADDED) to  (TO BE ADDED)
+**Total Target Hours:** (TO BE ADDED)
 
 ---
 
 # 🎯 Monthly Objectives
-
-* Solve ___ Binary Exploitation challenges
-* Solve ___ Reverse Engineering challenges
-* Create ___ detailed writeups
+* Solve 20 challenges
+* Solve  (TO BE ADDED) Binary Exploitation challenges
+* Solve  (TO BE ADDED) Reverse Engineering challenges
+* Create 24 detailed writeups
 * Build reusable exploit templates
 * Improve debugging & reversing workflow speed
-* Participate in at least ___ live CTF(s)
+* Participate in at least 1 live CTF(s)
 
 ---
 

@@ -1,0 +1,23 @@
+# Feb 26–27, 2026
+## Writing a Simple Program in C
+
+**Trainee:** James  
+**Focus Area:** Binary Exploitation Fundamentals
+
+---
+
+### Topics Covered
+- Basic C syntax
+- Variables and data types
+- Input and output
+- Control structures
+
+### Concepts Practiced
+- `printf()` and `scanf()`
+- Conditional statements (`if`, `else`)
+- Loops (`for`, `while`)
+- Compiling programs using `gcc`
+
+### Example Command
+```bash
+gcc program.c -o program

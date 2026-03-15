@@ -42,6 +42,7 @@
 
 ---
 
+
 ### Cumulative Total XP (Levels 0–20)
 
 1510 + 1510 = 3020 XP

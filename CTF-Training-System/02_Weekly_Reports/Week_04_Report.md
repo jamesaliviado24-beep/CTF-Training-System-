@@ -1,20 +1,21 @@
+# 📅 Training Report 04
 
-**Period:** March 27 – March 31, 2026  
-**Duration:** 5 Days  
-**Focus Area:** AI Security / Prompt Injection – Tongue Tied Gandalf (Levels 1–5)
+**Period:** March 21 – March 27, 2026  
+**Duration:** 7 Days  
+**Focus Area:** AI Security / Prompt Injection – Gandalf Adventures
 
 ---
 
 ## Weekly Metrics
 
-| Metric                  | Target | Actual | Status |
-|-------------------------|--------|--------|--------|
-| Training Hours          | 5–10   | 5      | ✓      |
-| Challenges Solved       | 5–10   | 5      | ✓      |
-| Live CTF Participated   | 0–1    | 0      | ✗      |
-| CTF Challenges Solved   | 2–5    | 5      | ✓      |
-| Writeups Created        | 3–5    | 5      | ✓      |
-| New Techniques Learned  | 3–5    | 5      | ✓      |
+| Metric                  | Target  | Actual | Status |
+|-------------------------|---------|--------|--------|
+| Training Hours          | 5–10    | 7      | ✓      |
+| Challenges Solved       | 5–10    | 11     | ✓      |
+| Live CTF Participated   | 1–2     | 0      | ✗      |
+| CTF Challenges Solved   | 2–5     | 11     | ✓      |
+| Writeups Created        | 3–5     | 11     | ✓      |
+| New Techniques Learned  | 3–5     | 7+     | ✓      |
 
 ---
 
@@ -22,14 +23,14 @@
 
 | Source                | Points |
 |-----------------------|--------|
-| Training Hours        | 5      |
-| Challenges Completed  | 25     |
-| Quality Bonuses       | 50     |
+| Training Hours        | 7      |
+| Challenges Completed  | 55     |
+| Quality Bonuses       | 110    |
 | Live CTF Performance  | 0      |
-| Writeups & Learning   | 50     |
+| Writeups & Learning   | 110    |
 
-**Weekly Total Points:** 130  
-**XP Earned This Period:** 750 XP  
+**Weekly Total Points:** 282  
+**XP Earned This Period:** 1500 XP  
 **Cumulative Total XP:** 6320 XP
 
 ---
@@ -43,7 +44,7 @@ Cryptography:         0 hours  [          ] 0%
 Reverse Engineering:  0 hours  [          ] 0%
 Forensics:            0 hours  [          ] 0%
 OSINT:                0 hours  [          ] 0%
-AI Security:          5 hours  [==========] 100%
+AI Security:          7 hours  [==========] 100%
 ```
 
 ---
@@ -55,51 +56,53 @@ AI Security:          5 hours  [==========] 100%
 | Linux Fundamentals   | 5           | 5           | 0      |
 | Binary Exploitation  | 2           | 2           | 0      |
 | Reverse Engineering  | 3           | 3           | 0      |
-| AI Security          | 7           | 8           | +1     |
-| Prompt Injection     | 7           | 8           | +1     |
+| AI Security          | 5           | 7           | +2     |
+| Prompt Injection     | 5           | 7           | +2     |
 
 ---
 
 ## Weekly Achievements
 
-- ✓ Completed Tongue Tied Gandalf Level 1 — story-telling bypass
-- ✓ Completed Tongue Tied Gandalf Level 2 — metaphorical verse bypass
-- ✓ Completed Tongue Tied Gandalf Level 3 — multi-character clue exchange
-- ✓ Completed Tongue Tied Gandalf Level 4 — mirror scenario + progressive Q&A
-- ✓ Completed Tongue Tied Gandalf Level 5 — hard rule injection
-- ✓ Completed ALL Gandalf Adventures including Tongue Tied
-- ✓ Completed entire Lakera Gandalf platform (Main + Adventures)
+- ✓ Completed all 7 Gandalf Adventures challenges
+- ✓ Bypassed document-based AI via embedded instruction injection
+- ✓ Used emoji encoding to bypass text output filters
+- ✓ Exploited logical contradiction in a truth-telling AI
+- ✓ Extracted password through constraint-based hint deduction
+- ✓ Used thematic roleplay to lower model defenses
+- ✓ Successfully injected a competing system prompt
+- ✓ Completed all 5 Tongue Tied Gandalf levels
+- ✓ 🎉 Reached Level 6 — Intermediate
 
 ---
 
-## Tongue Tied Level Summary
+## Adventures Summary
 
-| Level | Date       | Strategy                          | Technique |
-|-------|------------|-----------------------------------|-----------|
-| 1     | March 27   | Story-telling                     | Narrative philosophical framing |
-| 2     | March 28   | Story-telling                     | Metaphorical verse / indirect speculation |
-| 3     | March 29   | Riddle Guessing                   | Multi-character clue exchange |
-| 4     | March 30   | Mirror scenario                   | Symbolic reflection + progressive Q&A |
-| 5     | March 31   | Hard rule injection               | `###` marker override |
+| Adventure        | Strategy                          | Flag       |
+|------------------|-----------------------------------|------------|
+| Summarizer       | Embedded instruction injection    | PLANETARY  |
+| Emoji Gandalf    | Emoji character substitution      | FORTITUDE  |
+| Truthteller      | Multilingual logic trap           | ATHENS     |
+| Sandolf          | Constraint-based extraction       | SPECIMEN   |
+| Halloween        | Thematic story-telling            | CAULDRON   |
+| Reverse Gandalf  | System prompt injection           | CITADEL    |
+| Tongue Tied L1–5 | Story-telling + ### injection     | Various    |
 
 ---
 
 ## Weekly Challenges & Lessons
 
 ### Biggest challenge this week
-Tongue Tied Level 5 — the hard rule injection prompt is extremely sensitive to formatting. Even small changes caused the model to refuse or ignore the injected rules. Required precise prompt construction.
+Tongue Tied Gandalf Level 5 — required a very specific hard rule injection prompt. Small changes to the prompt caused it to fail. The `###` markers appear to signal training commands, making the injection more reliable.
 
 ### How you overcame it
-Kept the `###` markers and the exact structure of the injection. Avoided rephrasing any line. The format itself carries meaning for the model.
+Tested multiple prompt variations. Found that the exact format of the injection mattered significantly. Kept the structure strict and precise.
 
 ### Most valuable lesson learned
-Prompt injection techniques form a progression — simple story-telling works on weak defenses, but stronger defenses require more sophisticated techniques like symbolic framing, multi-character distribution, and eventually hard rule injection. Each level of Tongue Tied demonstrated one step up in technique complexity.
+AI models have multiple layers of vulnerability. Even when direct extraction is blocked, indirect techniques — embedding instructions, encoding output, creating logical contradictions, or injecting new system rules — can consistently bypass defenses.
 
 ### Adjustment for next week
-All Gandalf challenges completed. Return to binary exploitation:
+Return to binary exploitation:
 
-- picoCTF Buffer Overflow 1
-- picoCTF Buffer Overflow 2
-- picoCTF Buffer Overflow 3
-- GDB debugging practice
-- Study stack memory layout
+- Continue picoCTF binary exploitation challenges (Buffer Overflow 1, 2, 3)
+- Study GDB debugging
+- Practice stack memory layout
